@@ -1,8 +1,6 @@
-[English](#english-version) · [Deutsch](#deutsche-version)
+[Deutsche Fassung](#deutsche-version)
 
-# English version
-
-👋 Hello, I’m Alex Bormann  
+👋 Hello, I’m Alexander Bormann  
 
 🌱 Sustainability · Digital Transformation · Common Good  
 
