@@ -2,9 +2,6 @@
 
 # English version
 
-**One-liner**  
-Senior energy & digital transformation expert combining entrepreneurship, strategy and operational C-level experience with profound knowledge of AI, Python, IT and analytic skills.
-
 👋 Hello, I’m Alex Bormann  
 
 🌱 Sustainability · Digital Transformation · Common Good  
