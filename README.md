@@ -1,101 +1,91 @@
-DEUTSCHE Version weiter unten
+[English](#english-version) · [Deutsch](#deutsche-version)
 
-# 👋 Hello, I’m Alex Bormann
+# English version
 
-🌱 **Sustainability · Digitalization · Common Good**
+**One-liner**  
+Senior energy & digital transformation expert combining entrepreneurship, strategy and operational C-level experience with profound knowledge of AI, Python, IT and analytic skills.
 
-I work at the intersection of **renewable energy**, **software development**, and **social responsibility**.  
-My goal is to create technologies that **preserve resources**, **promote transparency**, and **empower people** to act autonomously.
+👋 Hello, I’m Alex Bormann  
 
----
+🌱 Sustainability · Digital Transformation · Common Good  
 
-💡 **About me**
+I work at the intersection of renewable energy, software engineering and strategic decision-making.  
+I help organisations design and implement solutions that preserve resources, increase transparency and enable people to act autonomously and responsibly.  
 
-- ⚡ Energy consultant & developer focused on **clean technologies**
-- 🧭 Main areas: **Python**, **data analysis**, **municipal energy concepts**
-- 🛰️ Interested in **smart community solutions** and **open data projects**
-- 🤝 Committed to **digital inclusion** and **sustainable innovation**
+💡 About me  
 
----
+- ⚡ Senior consultant and engineer with experience advising C‑level and public sector leaders  
+- 🧭 Focus areas: Python development, data analysis, municipal and regional energy strategies  
+- 🛰️ Strong interest in smart community platforms, open data and AI‑supported decision tools  
+- 🤝 Used to working across disciplines: policy, technology, operations and citizen engagement  
 
-🧰 **Tech stack**
+🧰 Tech stack  
 
-| Area | Technologies |
-|----------|---------------|
-| Programming | Python · Pandas · JavaScript · HTML · CSS |
-| Data & analysis | Jupyter · NumPy · Matplotlib |
-| Web & tools | Git · Flask · REST APIs · Google Sheets API |
-| Energy & simulation | PV tools · GIS analysis · Open energy data |
+| Area               | Technologies                                      |
+|--------------------|---------------------------------------------------|
+| Programming        | Python · Pandas · JavaScript · HTML · CSS         |
+| Data & analysis    | Jupyter · NumPy · Matplotlib · CSV/JSON pipelines |
+| Web & APIs         | Git · Flask · REST APIs · Google Sheets API       |
+| Energy & simulation| PV tools · GIS analysis · Open energy datasets    |
+| Workflow           | GitHub · CLI · Docker (basics) · Automation       |
 
----
+🎯 Current goals for 2026  
 
-🎯 **Current goals for 2026**
+- 🚀 Building an energy sharing community with robust technical and governance design  
+- 🤖 Developing Python/AI tools for scenario analysis and sustainable resource management  
+- 🌍 Contributing to projects that turn digital transformation into measurable common-good impact  
 
-- 🚀 Building an **energy sharing community**  
-- 🤖 Developing smart **Python/AI tools** for sustainable resource management  
-- 🌍 Contributing to projects that advance **common-good oriented digitalization**
+📫 Contact  
 
----
-
-📫 **Contact**
-
-**Alex Bormann**  
+Alex Bormann  
 📧 [eMail](mailto:a.bormann@mac.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/alexanderbormann/)
-🌐 [Website](https://alex-bormann.netlify.app)
+🔗 [LinkedIn](https://www.linkedin.com/in/alexanderbormann/) · 🌐 [Website](https://alex-bormann.netlify.app/)  
 
-
----
-
-> “Be human, for technology to empower people”  
-> — Alex Bormann
-
-
-# 👋 Hallo, ich bin Alex Bormann
-
-🌱 **Nachhaltigkeit · Digitalisierung · Gemeinwohl**
-
-Ich arbeite an der Schnittstelle von **erneuerbarer Energie**, **Softwareentwicklung** und **gesellschaftlicher Verantwortung**.  
-Mein Ziel: Technologien schaffen, die **Ressourcen schonen**, **Transparenz fördern** und **Menschen befähigen**, selbstbestimmt zu handeln.
+> “Technology should empower people – not replace them.”  
+> — Alex Bormann  
 
 ---
 
-💡 **Über mich**
+# Deutsche Version
 
-- ⚡ Luftfahr-Ingenieur,Energieberater & Entwickler mit Fokus auf **saubere Technologien**
-- 🧭 Schwerpunkte   **Python**, **Datenanalyse**, **Kommunale Energiekonzepte**
-- 🛰️ Interesse an   **Smart‑Community‑Lösungen** & **Open‑Data‑Projekten**
-- 🤝 Engagiert für   **digitale Teilhabe** und **nachhaltige Innovation**
+**In einem Satz**  
+Senior-Experte für Energiesysteme & digitale Transformation mit strategischer und operativer C‑Level‑Erfahrung, profundem Fachwissen und starker AI-/Python‑/IT‑Kompetenz.
 
----
+👋 Hallo, ich bin Alex Bormann  
 
-🧰 **Tech‑Stack**
+🌱 Nachhaltigkeit · Digitale Transformation · Gemeinwohl  
 
-| Bereich | Technologien |
-|----------|---------------|
-| Programmierung | Python · Pandas · JavaScript · HTML · CSS |
-| Daten & Analyse | Jupyter · NumPy · Matplotlib |
-| Web & Tools | Git · Flask · REST APIs · Google Sheets API |
-| Energie & Simulation | PV‑Tools · GIS‑Analyse · Open Energy Data |
+Ich arbeite an der Schnittstelle von erneuerbarer Energie, Softwareentwicklung und strategischer Steuerung.  
+Ich unterstütze Organisationen dabei, Lösungen zu entwickeln, die Ressourcen schonen, Transparenz erhöhen und Menschen in die Lage versetzen, verantwortungsvoll und selbstbestimmt zu handeln.  
 
----
+💡 Über mich  
 
-🎯 **Aktuelle Ziele 2026**
+- ⚡ Luftfahr-Ingenieur, Energieberater & Entwickler mit Erfahrung in der Zusammenarbeit mit C‑Level und Verwaltungsspitzen  
+- 🧭 Schwerpunkte: Python‑Entwicklung, Datenanalyse, kommunale und regionale Energiekonzepte  
+- 🛰️ Starkes Interesse an Smart‑Community‑Plattformen, Open‑Data‑Ansätzen und KI‑gestützten Entscheidungswerkzeugen  
+- 🤝 Routiniert in interdisziplinären Settings zwischen Fachbereich, IT, Politik und Bürgerschaft  
 
-- 🚀 Aufbau einer **Energy‑Sharing‑Community**  
-- 🤖 Entwicklung intelligenter **Python‑/KI‑Tools** für nachhaltiges Ressourcenmanagement  
-- 🌍 Mitwirkung an Projekten, die Gemeinwohl‑orientierte Digitalisierung voranbringen  
+🧰 Tech‑Stack  
 
----
+| Bereich            | Technologien                                      |
+|--------------------|---------------------------------------------------|
+| Programmierung     | Python · Pandas · JavaScript · HTML · CSS         |
+| Daten & Analyse    | Jupyter · NumPy · Matplotlib · CSV/JSON‑Pipelines |
+| Web & APIs         | Git · Flask · REST APIs · Google Sheets API       |
+| Energie & Simulation| PV‑Tools · GIS‑Analyse · Open Energy Data        |
+| Workflow           | GitHub · CLI · Docker (Grundlagen) · Automation   |
 
-📫 **Kontakt**
+🎯 Aktuelle Ziele 2026  
 
-**Alex Bormann**  
-📧 [eMail](mailto:a.bormann@mac.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/alexanderbormann/)
-🌐 [Website](https://alex-bormann.netlify.app)
+- 🚀 Aufbau einer Energy‑Sharing‑Community mit tragfähigem technischen und organisatorischen Modell  
+- 🤖 Entwicklung intelligenter Python‑/KI‑Tools für Szenarioanalyse und nachhaltiges Ressourcenmanagement  
+- 🌍 Mitarbeit an Projekten, die digitale Transformation in messbaren Gemeinwohl‑Nutzen übersetzen  
 
----
+📫 Kontakt  
 
-> „Mensch sein für Technologie die Menschen stärkt“  
+Alex Bormann  
+📧 [eMail](mailto:a.bormann@mac.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/alexanderbormann/) · 🌐 [Website](https://alex-bormann.netlify.app/)  
+
+> „Mensch sein für Technologie, die Menschen stärkt.“  
 > — Alex Bormann
